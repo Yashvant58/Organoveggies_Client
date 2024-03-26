@@ -26,7 +26,7 @@ throw error;
   }
   catch (err){
      console.log(err);
-     navigate('/signin')
+   //  navigate('/signin')
 
   }
 }
